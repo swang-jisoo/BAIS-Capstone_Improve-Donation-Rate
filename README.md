@@ -37,13 +37,13 @@ potential donor
 - Models: Decision Tree, Random Forest, and SVM
 
 ## Credits
-- 'Sponsor': Ruffalo Noel Levitz 
-- 'Project Owner': Jeff Easterling (previously Dan Edstrom) 
-- 'Core Team': RNL Team 1 (Group 6: Jisoo Lee, Jordan Kloewer, Ran An, and Xuan
+- `Sponsor`: Ruffalo Noel Levitz 
+- `Project Owner`: Jeff Easterling (previously Dan Edstrom) 
+- `Core Team`: RNL Team 1 (Group 6: Jisoo Lee, Jordan Kloewer, Ran An, and Xuan
 Zhang)
 
 ## License
 GNU GENERAL PUBLIC LICENSE © Jeff Easterling 
 
 ## Contact Information
-Jisoo Lee: swang.jislee@gmail.com
+`Jisoo Lee: swang.jislee@gmail.com`
